@@ -19,7 +19,16 @@
   },
   "homepage": "https://github.com/itswaseem/start-react-boilerplate#readme",
   "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-loader": "^8.0.4",
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
   }
 }
